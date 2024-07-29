@@ -1,0 +1,1 @@
+web: java -jar build/libs/Desafio-api-bootcamp-java-0.0.1-SNAPSHOT.jar
